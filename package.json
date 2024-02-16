@@ -16,10 +16,12 @@
     "@mui/icons-material": "^5.15.10",
     "@mui/material": "^5.15.10",
     "react": "^18.2.0",
+    "react-color": "^2.19.3",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.55",
+    "@types/react-color": "^3.0.11",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
